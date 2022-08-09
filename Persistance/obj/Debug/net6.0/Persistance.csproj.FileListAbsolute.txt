@@ -1,0 +1,15 @@
+/Users/sjawfer/Desktop/netReact/Persistance/bin/Debug/net6.0/Persistance.deps.json
+/Users/sjawfer/Desktop/netReact/Persistance/bin/Debug/net6.0/Persistance.dll
+/Users/sjawfer/Desktop/netReact/Persistance/bin/Debug/net6.0/Persistance.pdb
+/Users/sjawfer/Desktop/netReact/Persistance/bin/Debug/net6.0/Domain.dll
+/Users/sjawfer/Desktop/netReact/Persistance/bin/Debug/net6.0/Domain.pdb
+/Users/sjawfer/Desktop/netReact/Persistance/obj/Debug/net6.0/Persistance.csproj.AssemblyReference.cache
+/Users/sjawfer/Desktop/netReact/Persistance/obj/Debug/net6.0/Persistance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sjawfer/Desktop/netReact/Persistance/obj/Debug/net6.0/Persistance.AssemblyInfoInputs.cache
+/Users/sjawfer/Desktop/netReact/Persistance/obj/Debug/net6.0/Persistance.AssemblyInfo.cs
+/Users/sjawfer/Desktop/netReact/Persistance/obj/Debug/net6.0/Persistance.csproj.CoreCompileInputs.cache
+/Users/sjawfer/Desktop/netReact/Persistance/obj/Debug/net6.0/Persistance.csproj.CopyComplete
+/Users/sjawfer/Desktop/netReact/Persistance/obj/Debug/net6.0/Persistance.dll
+/Users/sjawfer/Desktop/netReact/Persistance/obj/Debug/net6.0/refint/Persistance.dll
+/Users/sjawfer/Desktop/netReact/Persistance/obj/Debug/net6.0/Persistance.pdb
+/Users/sjawfer/Desktop/netReact/Persistance/obj/Debug/net6.0/ref/Persistance.dll

@@ -1,0 +1,17 @@
+/Users/sjawfer/Desktop/netReact/Application/bin/Debug/net6.0/Application.deps.json
+/Users/sjawfer/Desktop/netReact/Application/bin/Debug/net6.0/Application.dll
+/Users/sjawfer/Desktop/netReact/Application/bin/Debug/net6.0/Application.pdb
+/Users/sjawfer/Desktop/netReact/Application/bin/Debug/net6.0/Domain.dll
+/Users/sjawfer/Desktop/netReact/Application/bin/Debug/net6.0/Persistance.dll
+/Users/sjawfer/Desktop/netReact/Application/bin/Debug/net6.0/Persistance.pdb
+/Users/sjawfer/Desktop/netReact/Application/bin/Debug/net6.0/Domain.pdb
+/Users/sjawfer/Desktop/netReact/Application/obj/Debug/net6.0/Application.csproj.AssemblyReference.cache
+/Users/sjawfer/Desktop/netReact/Application/obj/Debug/net6.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sjawfer/Desktop/netReact/Application/obj/Debug/net6.0/Application.AssemblyInfoInputs.cache
+/Users/sjawfer/Desktop/netReact/Application/obj/Debug/net6.0/Application.AssemblyInfo.cs
+/Users/sjawfer/Desktop/netReact/Application/obj/Debug/net6.0/Application.csproj.CoreCompileInputs.cache
+/Users/sjawfer/Desktop/netReact/Application/obj/Debug/net6.0/Application.csproj.CopyComplete
+/Users/sjawfer/Desktop/netReact/Application/obj/Debug/net6.0/Application.dll
+/Users/sjawfer/Desktop/netReact/Application/obj/Debug/net6.0/refint/Application.dll
+/Users/sjawfer/Desktop/netReact/Application/obj/Debug/net6.0/Application.pdb
+/Users/sjawfer/Desktop/netReact/Application/obj/Debug/net6.0/ref/Application.dll
